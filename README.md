@@ -140,6 +140,7 @@ For the compose calendar library, ensure that you are using the library version 
 |   1.8.x    |      2.7.x - 2.8.x       |         2.7.x - 2.8.x          |
 |   1.9.x    |          2.9.x           |             2.9.x              |
 |   1.10.x   |          2.10.x          |             2.10.x             |
+|   1.11.x   |          2.10.x          |             2.10.x             |
 
 ## Usage
 
